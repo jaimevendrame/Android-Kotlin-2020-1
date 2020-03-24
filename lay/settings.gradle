@@ -1,0 +1,2 @@
+rootProject.name='lay'
+include ':app'
